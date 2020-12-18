@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+C:\Users\vmadmin\source\repos\Projektm411\Projectm411\Quelle.cpp(5,14): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Projectm411.vcxproj -> C:\Users\vmadmin\source\repos\Projektm411\Debug\Projectm411.exe
